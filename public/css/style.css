@@ -1,0 +1,32 @@
+.background {
+  display: flex;
+  padding: 1px;
+  background: #d3d3d3;
+}
+.form-input {
+  margin-top: 20px;
+  margin-left: 200px;
+  font-family: "Open Sans";
+  margin-bottom: 5px;
+  width: 500px;
+  font-size: 35px;
+  height: 35px;
+}
+.form-input::placeholder {
+  opacity: 1;
+}
+.form-button {
+  margin-left: 100px;
+  margin-top: 20px;
+  font-size: 25px;
+  font-family: "Open Sans";
+  background: #9b9c9c;
+  height: 40px;
+  color: rgb(0, 0, 0);
+}
+.form-text {
+  margin-left: 20px;
+}
+.he {
+  letter-spacing: 10px;
+}
